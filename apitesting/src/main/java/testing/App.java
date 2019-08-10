@@ -1,4 +1,4 @@
-package APITesting.example;
+package testing;
 
 /**
  * Hello world!
